@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Elroy D'Souza.
+
+I recently graduated from Nottingham Trent University where I studied Computer Science.
+I am currently looking to be hired and I am open to a variety of grad roles in the computing industry.
+
 <!--
 **elroydsouza/elroydsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
