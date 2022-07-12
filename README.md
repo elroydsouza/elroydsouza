@@ -1,8 +1,9 @@
 ### Hello, my name is Elroy D'Souza 👋
 
-I recently graduated from Nottingham Trent University with first class honours where I studied Computer Science.
-
+I recently graduated from Nottingham Trent University with first class honours where I studied Computer Science.  
 I am currently looking to be hired and I am open to a variety of grad roles in the computing industry.
+
+A few of the project I have worked on in the past have been made public for viewing.
 
 You can reach me at: elroydsouza2005@yahoo.co.uk
 
