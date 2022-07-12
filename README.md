@@ -4,6 +4,8 @@ I recently graduated from Nottingham Trent University with first class honours w
 
 I am currently looking to be hired and I am open to a variety of grad roles in the computing industry.
 
+You can reach me at: elroydsouza2005@yahoo.co.uk
+
 <!--
 **elroydsouza/elroydsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
