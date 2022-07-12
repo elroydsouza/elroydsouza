@@ -1,6 +1,4 @@
-### Hi there 👋
-
-My name is Elroy D'Souza.
+### Hi there my name is Elroy D'Souza 👋
 
 I recently graduated from Nottingham Trent University with first class honours where I studied Computer Science.
 
